@@ -3,8 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import shapely 
 from shapely.geometry import MultiPoint, Polygon
-import cv2
-from math import atan2, pi
+from math import pi
 from itertools import combinations
 import os
 
